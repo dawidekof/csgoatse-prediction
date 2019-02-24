@@ -1,8 +1,8 @@
 // ==UserScript==
 
-// @name         CSGOAtse.com - Prediction Hack
+// @name         CSGOAtse.com Prediction Hack
 
-// @version      2.0.1
+// @version      v2.0.1
 
 // @author       SILENTCHEATS
 
