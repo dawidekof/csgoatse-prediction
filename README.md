@@ -2,7 +2,7 @@
 [v2.0.1] CSGOatse Prediction Hack
 
 
-#INSTRUCTION:
+INSTRUCTION:
 [1] Copy script
 
 [2] Open CSGOatse.com
