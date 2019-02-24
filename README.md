@@ -3,6 +3,7 @@
 
 
 INSTRUCTION:
+
 [1] Copy script
 
 [2] Open CSGOatse.com
