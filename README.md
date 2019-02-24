@@ -1,4 +1,4 @@
-# csgoatse-prediction
+# CSGOatse.com Prediction Hack
 [v2.0.1] CSGOatse Prediction Hack
 
 INSTRUCTION:
