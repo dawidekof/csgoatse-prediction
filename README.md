@@ -11,17 +11,15 @@ INSTRUCTION:
 
 [4] Paste script in console and press ENTER
 
-[5]
+[5.a]
 
-   (a)
-   
       [1] If you have access key click "I have an access key"
       
       [2] Enter access key and click Ok
       
       [3] Enjoy cheating!
       
-   (b)
+[5.b]
    
       [1] If you don't have access key click "I want to buy an access key"
       
